@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root 'git-app#index'
+  root 'gitapp#index'
 end

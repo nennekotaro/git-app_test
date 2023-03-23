@@ -1,0 +1,2 @@
+module GitappHelper
+end
